@@ -8,15 +8,17 @@ HTML、CSS、Javascript(一點點)
 
 👀一些社群網站
 -
-YouTube頻道//YouTube Channel:
-個人: https://reurl.cc/x95NMz
+YouTube頻道//YouTube Channel:<br>
+個人: https://reurl.cc/x95NMz<br>
 Niaomin Team: https://reurl.cc/g2VRAR
 
-Dc sever: WBkdQwJe9p (伺服器邀請Sever Invite)
+Discord sever: WBkdQwJe9p (伺服器邀請Sever Invite)
 
 網誌//部落格//Blog: https://reurl.cc/b2QWjl
 
 Scratch: https://reurl.cc/Rr5YlD
+
+推ㄊ//Twitter: https://twitter.com/yulaiyuqu
 
 <!---
 NiaominYulaiyuqu/NiaominYulaiyuqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
