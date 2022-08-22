@@ -1,7 +1,22 @@
-👋嗨我是Niaomin的玉來玉去
+👋嗨，我是Niaomin Wolrd的玉來玉去
 -
-一個來自臺灣的綠帽豬<br>平時喜歡做莫名其妙的音樂與動畫<br>學html&css只是小興趣與作為宣傳手段(?
+一ㄓ來自臺灣的綠帽豬<br>平時喜歡做莫名其妙的音樂與動畫<br>學程式只是小興趣與作為宣傳手段(?
 
+🖥程式語言
+-
+HTML、CSS、Javascript(一點點)
+
+👀一些社群網站
+-
+YouTube頻道//YouTube Channel:
+個人: https://reurl.cc/x95NMz
+Niaomin Team: https://reurl.cc/g2VRAR
+
+Dc sever: WBkdQwJe9p (伺服器邀請Sever Invite)
+
+網誌//部落格//Blog: https://reurl.cc/b2QWjl
+
+Scratch: https://reurl.cc/Rr5YlD
 
 <!---
 NiaominYulaiyuqu/NiaominYulaiyuqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
