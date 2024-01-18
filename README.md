@@ -14,11 +14,12 @@ Niaomin Team: https://reurl.cc/g2VRAR
 
 Discord sever: WBkdQwJe9p (伺服器邀請Sever Invite)
 
-網誌//部落格//Blog: https://reurl.cc/b2QWjl
-
 Scratch: https://reurl.cc/Rr5YlD
 
 推ㄊ//Twitter: https://twitter.com/yulaiyuqu
+
+乾淨世界：
+https://www.ganjingworld.com/zh-TW/channel/1gchcqd02qr6ob6HXXBTOj1aE1i30c?idData=channel_1
 
 <!---
 NiaominYulaiyuqu/NiaominYulaiyuqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
