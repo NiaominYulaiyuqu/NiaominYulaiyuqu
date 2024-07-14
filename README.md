@@ -1,6 +1,6 @@
 👋嗨，我是Niaomin Wolrd的玉來玉去
 -
-一ㄓ來自臺灣的綠帽豬<br>平時喜歡做莫名其妙的音樂與動畫<br>學程式只是小興趣與作為宣傳手段(?
+一ㄓ來自臺灣的綠帽豬<br>喜歡做音樂、動畫、網頁
 
 🖥程式語言
 -
@@ -18,8 +18,7 @@ Scratch: https://reurl.cc/Rr5YlD
 
 推ㄊ//Twitter: https://twitter.com/yulaiyuqu
 
-乾淨世界：
-https://www.ganjingworld.com/zh-TW/channel/1gchcqd02qr6ob6HXXBTOj1aE1i30c?idData=channel_1
+Pixiv: https://www.pixiv.net/users/105831630
 
 <!---
 NiaominYulaiyuqu/NiaominYulaiyuqu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
