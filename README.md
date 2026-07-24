@@ -9,14 +9,14 @@ HTML、CSS、Javascript(一點點)
 👀一些社群網站
 -
 YouTube頻道//YouTube Channel:<br>
-個人: https://reurl.cc/x95NMz<br>
-Niaomin Team: https://reurl.cc/g2VRAR
+個人: https://youtube.com/@niaomin1234_yulaiyuqu<br>
+Niaomin Team: https://youtube.com/@niaomin1234
 
 Discord sever: WBkdQwJe9p (伺服器邀請Sever Invite)
 
-Scratch: https://reurl.cc/Rr5YlD
+Scratch: https://scratch.mit.edu/users/niaomin1234
 
-推ㄊ//Twitter: https://twitter.com/yulaiyuqu
+X//Twitter: https://twitter.com/yulaiyuqu
 
 Pixiv: https://www.pixiv.net/users/105831630
 
